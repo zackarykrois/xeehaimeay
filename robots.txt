@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aicheihae.peel-framework.org/sitemap.xml
